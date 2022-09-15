@@ -13,3 +13,10 @@ https://openai.com/blog/openai-codex
 #Git
 https://coding.net/
 https://gitee.com/
+
+#图文创意
+https://chuangyi.taobao.com/ 阿里妈妈创意中心
+https://wantwords.net/ 反向词典
+https://www.chuangkit.com/ 平面设计作图神器
+https://effidit.qq.com/ 腾讯 AI Lab智能创作助手
+https://www.5118.com/ 长尾关键词挖掘
