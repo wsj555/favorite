@@ -1,4 +1,5 @@
-# favorite
+# Favorite
+
 # Media player
 https://www.videolan.org/
 
@@ -6,15 +7,15 @@ https://www.videolan.org/
 https://github.com/iptv-org/iptv
 https://www.bytesea.com/4031.html
 
-#AI
+# AI
 https://alphacode.deepmind.com
 https://openai.com/blog/openai-codex
 
-#Git
+# Git
 https://coding.net/
 https://gitee.com/
 
-#图文创意
+# 图文创意
 https://chuangyi.taobao.com/ 阿里妈妈创意中心
 https://wantwords.net/ 反向词典
 https://www.chuangkit.com/ 平面设计作图神器
@@ -26,7 +27,7 @@ https://www.videezy.com/ Free HD Stock Footage & 4K Videos!
 https://www.aigei.com/ 专注免费素材
 https://xiumi.us/ 公众号图文排版工具
 
-#大数据
+# 大数据
 http://hao.199it.com/
 https://www.ycdb.co
 https://www.umeng.com/
@@ -35,4 +36,4 @@ https://trendinsight.oceanengine.com
 https://www.statista.com/
 https://data.worldbank.org/
 
-#孵化器
+# 孵化器
