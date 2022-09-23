@@ -37,3 +37,10 @@ https://www.statista.com/
 https://data.worldbank.org/
 
 # 孵化器
+https://www.ycombinator.com Y Combinator
+
+# Domain & spaces
+https://nic.eu.org/
+http://www.dot.tk/
+https://www.getfreedomain.name/
+https://www.freenom.com/
