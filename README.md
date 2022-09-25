@@ -44,3 +44,6 @@ https://nic.eu.org/
 http://www.dot.tk/
 https://www.getfreedomain.name/
 https://www.freenom.com/
+
+# 模拟 & 自动化
+http://www.anjian.com/
