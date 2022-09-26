@@ -52,3 +52,5 @@ https://appium.io/
 https://jmeter.apache.org/
 https://www.jenkins.io/
 https://robotframework.org/
+https://developer.apple.com/cn/testflight/
+https://developer.apple.com/cn/xcode/
