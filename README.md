@@ -47,3 +47,8 @@ https://www.freenom.com/
 
 # 模拟 & 自动化
 http://www.anjian.com/
+https://www.selenium.dev/
+https://appium.io/
+https://jmeter.apache.org/
+https://www.jenkins.io/
+https://robotframework.org/
