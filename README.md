@@ -57,3 +57,7 @@ https://developer.apple.com/cn/xcode/
 
 # 题库Online Judge
 https://leetcode.com
+
+# Package Manager for Windows 
+https://chocolatey.org/
+https://scoop.sh/
