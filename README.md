@@ -65,3 +65,4 @@ https://scoop.sh/
 #Tools
 https://www.camscanner.com/tools/pdftoword 在线文档转换
 https://www.sodapdf.com/cn/pdf-to-word/ 在线文档转换
+https://www.ilovepdf.com/pdf_to_word 在线文档转换
