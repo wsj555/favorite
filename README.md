@@ -26,6 +26,8 @@ https://mixkit.co/ Free assets for your next video project
 https://www.videezy.com/ Free HD Stock Footage & 4K Videos!
 https://www.aigei.com/ 专注免费素材
 https://xiumi.us/ 公众号图文排版工具
+https://www.canva.cn 可画
+https://www.chuangkit.com 创可贴
 
 # 大数据
 http://hao.199it.com/
