@@ -10,6 +10,7 @@ https://www.bytesea.com/4031.html
 # AI
 https://alphacode.deepmind.com
 https://openai.com/blog/openai-codex
+https://openai.com/blog/chatgpt/
 
 # Git
 https://coding.net/
