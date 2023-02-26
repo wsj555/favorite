@@ -75,3 +75,10 @@ https://www.ilovepdf.com/pdf_to_word 在线文档转换
 # 健康养生
 https://www.bqex.com/ 山东互联网中药材交易中心
 https://db.ouryao.com/ 蒲标网
+
+# Edu
+https://www.study.vic.gov.au/cn/Pages/default.aspx
+https://www.study.nsw.gov.au/
+https://myschool.edu.au/ 了解澳洲学校整体情况，及排名
+https://bettereducation.com.au/ 了解澳洲学校整体情况，及排名
+http://www.ksouhouse.com/search_school.php 查到澳洲学校的ICESEA成绩和周边学区房情况
