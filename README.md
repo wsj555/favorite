@@ -71,6 +71,7 @@ https://scoop.sh/
 https://www.camscanner.com/tools/pdftoword 在线文档转换
 https://www.sodapdf.com/cn/pdf-to-word/ 在线文档转换
 https://www.ilovepdf.com/pdf_to_word 在线文档转换
+https://colab.research.google.com 在浏览器中运行代码
 
 # 健康养生
 https://www.bqex.com/ 山东互联网中药材交易中心
