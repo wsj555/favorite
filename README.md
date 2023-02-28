@@ -31,6 +31,8 @@ https://xiumi.us/ 公众号图文排版工具
 https://www.canva.cn/ 可画
 https://www.chuangkit.com/ 创可贴
 https://www.gaoding.com/ 稿定设计-海量版权素材在线设计神器
+https://www.remove.bg/zh 图片背景消除
+https://colourise.com/ 黑白照AI填色网站
 
 # 大数据
 http://hao.199it.com/
@@ -83,3 +85,7 @@ https://www.study.nsw.gov.au/
 https://myschool.edu.au/ 了解澳洲学校整体情况，及排名
 https://bettereducation.com.au/ 了解澳洲学校整体情况，及排名
 http://www.ksouhouse.com/search_school.php 查到澳洲学校的ICESEA成绩和周边学区房情况
+
+# OT
+https://www.fiverr.com/
+https://www.peopleperhour.com/
