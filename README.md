@@ -16,6 +16,7 @@ https://openai.com/blog/chatgpt/
 https://coding.net/
 https://gitee.com/
 https://www.gitpod.io
+https://gitlab.com/
 
 # 图文创意
 https://chuangyi.taobao.com/ 阿里妈妈创意中心
@@ -51,6 +52,14 @@ https://nic.eu.org/
 http://www.dot.tk/
 https://www.getfreedomain.name/
 https://www.freenom.com/
+https://vercel.com/
+https://www.cloudflare.com/
+https://www.freedomain.one/
+https://www.dnsexit.com/
+https://zeabur.com/
+https://www.lafyun.com/
+https://aircode.io/
+https://www.netlify.com/
 
 # 模拟 & 自动化
 http://www.anjian.com/
