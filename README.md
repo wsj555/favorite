@@ -100,3 +100,20 @@ http://www.ksouhouse.com/search_school.php 查到澳洲学校的ICESEA成绩和�
 https://www.fiverr.com/
 https://www.peopleperhour.com/
 https://www.upwork.com/
+
+# V2Ray Subscribe
+https://raw.fastgit.org/freefq/free/master/v2
+https://raw.fastgit.org/Pawdroid/Free-servers/main/sub
+https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/free
+https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
+
+# Clash Subscribe
+https://anaer.github.io/Sub/clash.yaml
+https://raw.kgithub.com/anaer/Sub/main/clash.yaml
+https://raw.iqiq.io/anaer/Sub/main/clash.yaml
+https://raw.fastgit.org/anaer/Sub/main/clash.yaml
+https://cdn.jsdelivr.net/gh/anaer/Sub@main/clash.yaml
+https://github.com/aiboboxx/clashfree/blob/main/clash.yml
+https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/config.yaml
+https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/config.yaml
+https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
