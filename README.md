@@ -11,6 +11,10 @@ https://www.bytesea.com/4031.html
 https://alphacode.deepmind.com
 https://openai.com/blog/openai-codex
 https://openai.com/blog/chatgpt/
+https://tryai1.github.io/
+https://bing.com/create
+https://bing.com/chat
+https://ora.sh/openai/gpt4
 
 # Git
 https://coding.net/
@@ -60,6 +64,7 @@ https://zeabur.com/
 https://www.lafyun.com/
 https://aircode.io/
 https://www.netlify.com/
+https://ora.sh/
 
 # 模拟 & 自动化
 http://www.anjian.com/
