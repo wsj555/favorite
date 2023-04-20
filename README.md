@@ -123,3 +123,6 @@ https://github.com/aiboboxx/clashfree/blob/main/clash.yml
 https://cdn.jsdelivr.net/gh/learnhard-cn/free_proxy_ss@main/clash/config.yaml
 https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/clash/config.yaml
 https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+
+# Manual
+https://python3-cookbook.readthedocs.io/zh_CN/latest/ Python Cookbook 3rd Edition Documentation
