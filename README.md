@@ -126,3 +126,9 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
 
 # Manual
 https://python3-cookbook.readthedocs.io/zh_CN/latest/ Python Cookbook 3rd Edition Documentation
+
+# KMS
+https://www.coolhub.top/tech-articles/kms_list.htm
+https://www.kms.pub/index.html
+kms.03k.org
+win.kms.pub
