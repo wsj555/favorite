@@ -38,6 +38,7 @@ https://www.chuangkit.com/ 创可贴
 https://www.gaoding.com/ 稿定设计-海量版权素材在线设计神器
 https://www.remove.bg/zh 图片背景消除
 https://colourise.com/ 黑白照AI填色网站
+https://www.remove.bg/
 
 # 大数据
 http://hao.199it.com/
