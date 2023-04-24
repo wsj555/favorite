@@ -39,6 +39,9 @@ https://www.gaoding.com/ 稿定设计-海量版权素材在线设计神器
 https://www.remove.bg/zh 图片背景消除
 https://colourise.com/ 黑白照AI填色网站
 https://www.remove.bg/
+https://www.100font.com/ 免费商用字体
+https://www.hippopx.com/ 免费商用照片
+https://www.tosound.com/ 免费商用声音
 
 # 大数据
 http://hao.199it.com/
