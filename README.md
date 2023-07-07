@@ -43,6 +43,7 @@ https://www.100font.com/ 免费商用字体
 https://www.hippopx.com/ 免费商用照片
 https://www.tosound.com/ 免费商用声音
 https://convert.leiapix.com/ 静态图片转动图
+https://www.nipic.com/ 免费素材
 
 # 大数据
 http://hao.199it.com/
