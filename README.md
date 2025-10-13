@@ -6,7 +6,7 @@ https://www.videolan.org/
 https://github.com/iptv-org/iptv
 https://www.bytesea.com/4031.html
 
-Platform
+# Platform
 https://colab.research.google.com/
 
 # AI
@@ -37,7 +37,7 @@ https://github.com/vercel/vercel
 # Git
 https://coding.net/
 https://gitee.com/
-https://www.gitpod.io
+https://www.gitpod.io/
 https://gitlab.com/
 
 # 图文创意
@@ -119,7 +119,8 @@ https://chocolatey.org/
 https://scoop.sh/
 
 # Tools
-https://www.pdfescape.com/
+https://www.pdflance.com/ 在线文档转换
+https://www.pdfescape.com/ 在线文档转换
 https://www.camscanner.com/tools/pdftoword 在线文档转换
 https://www.sodapdf.com/cn/pdf-to-word/ 在线文档转换
 https://www.ilovepdf.com/pdf_to_word 在线文档转换
