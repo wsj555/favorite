@@ -145,6 +145,11 @@ http://www.ksouhouse.com/search_school.php 查到澳洲学校的ICESEA成绩和�
 https://www.codecademy.com/ Learn to code
 https://www.pluralsight.com/codeschool 
 
+https://apply.universityofcalifornia.edu/my-application/login 美国加州大学
+https://www.coalitionforcollegeaccess.org/ CAAS是申请美国本科最实用的网站之一
+https://www.commonapp.org/ Common App 是美国大学最常用的申请系统之一
+
+
 # OT
 https://www.fiverr.com/
 https://www.peopleperhour.com/
