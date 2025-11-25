@@ -29,6 +29,7 @@ https://runwayml.com/
 https://www.flowgpt.com/
 
 https://www.promptingguide.ai/ 提示词
+https://lmarena.ai/ 评估大语言模型
 
 https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
 https://github.com/lobehub/lobe-chat
@@ -165,6 +166,9 @@ https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt
 https://git.io/emzv2ray
 https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub
 https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
+https://raw.githubusercontent.com/StormragerCN/v2ray/refs/heads/main/v2ray
+https://www.xrayvip.com/free.txt
+https://youneed.win 
 
 # Clash Subscribe
 https://anaer.github.io/Sub/clash.yaml
