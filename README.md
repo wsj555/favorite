@@ -35,6 +35,8 @@ https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
 https://github.com/lobehub/lobe-chat
 https://github.com/vercel/vercel
 
+https://lyraprompt.com/ Lyra Prompt
+ 
 # Git
 https://coding.net/
 https://gitee.com/
