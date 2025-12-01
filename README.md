@@ -154,6 +154,13 @@ https://www.commonapp.org/ Common App 是美国大学最常用的申请系统之
 https://pll.harvard.edu/ 哈佛终身学习平台
 https://learn.mit.edu/
 
+英文分级动画Little Fox 小狐狸 1～9阶大合集 下载地址：
+百度网盘：https://pan.baidu.com/s/1vy33CU5N4k2UzdHthlbgow?pwd=8m94 提取码: 8m94
+百度网盘备用：https://pan.baidu.com/s/11mOkb4uV6G4XJOgGqunTGQ 提取码:71pb
+百度网盘备用: https://pan.baidu.com/s/1CqsOIuqq3E_sWLmzl5515Q?pwd=d79e 提取码:d79e
+百度网盘备用2：https://pan.baidu.com/s/1qO9xjb1Fz4xN5f_m7guZkQ?pwd=5cyc 提取码：5cyc
+如果你喜欢在线观看，可以通过Bilibili观看，详见本站之前总结梳理过的小狐狸全部B站播放链接https://xuebajiajiayou.com/376/
+
 # OT
 https://www.fiverr.com/
 https://www.peopleperhour.com/
