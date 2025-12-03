@@ -30,7 +30,8 @@ https://www.flowgpt.com/
 
 https://www.promptingguide.ai/ 提示词
 https://lmarena.ai/ 评估大语言模型
-
+https://www.researchrabbit.ai/ 科研文献检索神器
+https://www.tripo3d.ai/ 3D建模
 https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
 https://github.com/lobehub/lobe-chat
 https://github.com/vercel/vercel
